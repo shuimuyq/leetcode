@@ -1,0 +1,2 @@
+# leetcode
+collect of leecode
